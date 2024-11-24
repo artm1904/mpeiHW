@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfg>
+    <neighbours>
+        <entry>
+            <key>N2</key>
+            <value>15</value>
+        </entry>
+        <entry>
+            <key>N3</key>
+            <value>27</value>
+        </entry>
+        <entry>
+            <key>N4</key>
+            <value>21</value>
+        </entry>
+        <entry>
+            <key>N5</key>
+            <value>25</value>
+        </entry>
+    </neighbours>
+    <start>true</start>
+    <findNodeName>N1</findNodeName>
+</cfg>
+
+
+

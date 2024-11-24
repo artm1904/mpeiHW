@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfg>
+    <neighbours>
+        <entry>
+            <key>N1</key>
+            <value>21</value>
+        </entry>
+        <entry>
+            <key>N2</key>
+            <value>13</value>
+        </entry>
+        <entry>
+            <key>N3</key>
+            <value>27</value>
+        </entry>
+        <entry>
+            <key>N5</key>
+            <value>27</value>
+        </entry>
+        <entry>
+            <key>N6</key>
+            <value>6</value>
+        </entry>
+        <entry>
+            <key>N7</key>
+            <value>5</value>
+        </entry>
+        <entry>
+            <key>N8</key>
+            <value>23</value>
+        </entry>
+    </neighbours>
+</cfg>
+
+
+

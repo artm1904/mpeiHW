@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfg>
+    <students>
+        <student>
+            <name>John</name>
+            <surname>Shepard</surname>
+            <age>30</age>
+            <group department="games" count="87"></group>
+        </student>
+
+        <student>
+            <name>John</name>
+            <surname>Week</surname>
+            <age>40</age>
+            <group department="movies" count="21"></group>
+        </student>
+    </students>
+</cfg>
